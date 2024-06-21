@@ -4,7 +4,7 @@
 
 This article details implementing a framework to commit or roll back **distributed transactions** in a disconnected architecture involving **Azure Functions** and **Azure Service Bus.**.
 
-![Components communication's diagram](./Images/Saga1.webp)
+![Components communication's diagram](./Images/saga1.webp)
 
 ## Online article
 Details about this project can be read in my blog's articles here: 
